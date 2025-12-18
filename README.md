@@ -183,8 +183,8 @@ Select the installed language in Supernote's handwriting recognition settings to
 
 | Type | File Size | Recognition Speed | Accuracy | Recommended Devices |
 |------|-----------|------------------|----------|---------------------|
-| Lite | 5-15 MB | Fast | Medium | A5X/A6X small screen devices |
-| Standard | 20-50 MB | Medium | High | A5X2/A6X2 large screen devices |
+| Lite | 5-15 MB | Fast | Medium | A5X/A6X |
+| Standard | 20-50 MB | Medium | High | A5X2/A6X2 |
 
 ### Supported Languages
 
