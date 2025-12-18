@@ -180,8 +180,8 @@ Wählen Sie die installierte Sprache in den Handschrifterkennungseinstellungen I
 
 | Typ | Dateigröße | Erkennungsgeschwindigkeit | Genauigkeit | Empfohlene Geräte |
 |------|---------|---------|---------|---------|
-| Lite | 5-15 MB | Schnell | Mittel | A5/A6 |
-| Standard | 20-50 MB | Mittel | Hoch | A5X/A6X |
+| Lite | 5-15 MB | Schnell | Mittel | A5X/A6X |
+| Standard | 20-50 MB | Mittel | Hoch | A5X2/A6X2 |
 
 ### Unterstützte Sprachen
 
